@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Generic user avatar placeholder -->
+  <circle cx="60" cy="60" r="60" fill="#E8F5F6"/>
+  <circle cx="60" cy="45" r="18" fill="#006972" opacity="0.7"/>
+  <ellipse cx="60" cy="95" rx="32" ry="22" fill="#006972" opacity="0.5"/>
+</svg>
