@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 - **Total Files**: 230
-- **Status**: 89 / 230 Copied
-- **Progress**: `[████████░░░░░░░░░░░░] 39%` 
+- **Status**: 103 / 230 Copied
+- **Progress**: `[█████████░░░░░░░░░░░] 45%` 
 
 ---
 
@@ -676,20 +676,20 @@ SanjhiAI/
 
 ### 📂 `src/pages/committee/`
 
-- [ ] `src/pages/committee/CommitteeCreated.jsx` 
-- [ ] `src/pages/committee/CommitteeDetail.jsx` 
-- [ ] `src/pages/committee/CommitteeProgress.jsx` 
-- [ ] `src/pages/committee/CommitteeSettings.jsx` 
-- [ ] `src/pages/committee/CommitteeSetup.jsx` 
-- [ ] `src/pages/committee/CreateCommittee.jsx` 
-- [ ] `src/pages/committee/JoinByCode.jsx` 
-- [ ] `src/pages/committee/JoinCommittee.jsx` 
-- [ ] `src/pages/committee/JoinRequestSent.jsx` 
-- [ ] `src/pages/committee/LinkAccount.jsx` 
-- [ ] `src/pages/committee/MyPools.jsx` 
-- [ ] `src/pages/committee/PublicCommittees.jsx` 
-- [ ] `src/pages/committee/ReviewConfirm.jsx` 
-- [ ] `src/pages/committee/SetSchedule.jsx` 
+- [x] `src/pages/committee/CommitteeCreated.jsx` 
+- [x] `src/pages/committee/CommitteeDetail.jsx` 
+- [x] `src/pages/committee/CommitteeProgress.jsx` 
+- [x] `src/pages/committee/CommitteeSettings.jsx` 
+- [x] `src/pages/committee/CommitteeSetup.jsx` 
+- [x] `src/pages/committee/CreateCommittee.jsx` 
+- [x] `src/pages/committee/JoinByCode.jsx` 
+- [x] `src/pages/committee/JoinCommittee.jsx` 
+- [x] `src/pages/committee/JoinRequestSent.jsx` 
+- [x] `src/pages/committee/LinkAccount.jsx` 
+- [x] `src/pages/committee/MyPools.jsx` 
+- [x] `src/pages/committee/PublicCommittees.jsx` 
+- [x] `src/pages/committee/ReviewConfirm.jsx` 
+- [x] `src/pages/committee/SetSchedule.jsx` 
 
 ### 📂 `src/pages/dashboard/`
 
