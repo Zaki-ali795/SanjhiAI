@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <!-- Sanjhi Logo — Interlaced geometric mark inspired by jali patterns -->
+  <!-- Deep Navy background circle -->
+  <circle cx="120" cy="120" r="116" fill="#0D1B2A" stroke="#006972" stroke-width="3"/>
+  
+  <!-- Outer interlaced ring — Teal Emerald -->
+  <path d="M120 28 C168 28 208 68 208 120 C208 172 168 212 120 212 C72 212 32 172 32 120 C32 68 72 28 120 28Z" 
+        fill="none" stroke="#006972" stroke-width="4" opacity="0.3"/>
+  
+  <!-- Inner geometric interlace — inspired by Sanjhi jali patterns -->
+  <!-- Four interlocking petals -->
+  <path d="M120 52 L148 96 L120 84 L92 96 Z" fill="#006972" opacity="0.9"/>
+  <path d="M120 188 L148 144 L120 156 L92 144 Z" fill="#006972" opacity="0.9"/>
+  <path d="M52 120 L96 92 L84 120 L96 148 Z" fill="#006972" opacity="0.9"/>
+  <path d="M188 120 L144 92 L156 120 L144 148 Z" fill="#006972" opacity="0.9"/>
+  
+  <!-- Central diamond with Mustard Gold accent -->
+  <path d="M120 84 L156 120 L120 156 L84 120 Z" fill="none" stroke="#D4AF37" stroke-width="3"/>
+  <path d="M120 96 L144 120 L120 144 L96 120 Z" fill="#D4AF37" opacity="0.15"/>
+  
+  <!-- Central dot -->
+  <circle cx="120" cy="120" r="8" fill="#D4AF37"/>
+  
+  <!-- Corner accent dots — jali pattern nodes -->
+  <circle cx="120" cy="52" r="5" fill="#006972"/>
+  <circle cx="120" cy="188" r="5" fill="#006972"/>
+  <circle cx="52" cy="120" r="5" fill="#006972"/>
+  <circle cx="188" cy="120" r="5" fill="#006972"/>
+  
+  <!-- Diagonal interlace lines -->
+  <line x1="80" y1="80" x2="100" y2="100" stroke="#006972" stroke-width="2" opacity="0.5"/>
+  <line x1="160" y1="80" x2="140" y2="100" stroke="#006972" stroke-width="2" opacity="0.5"/>
+  <line x1="80" y1="160" x2="100" y2="140" stroke="#006972" stroke-width="2" opacity="0.5"/>
+  <line x1="160" y1="160" x2="140" y2="140" stroke="#006972" stroke-width="2" opacity="0.5"/>
+</svg>
