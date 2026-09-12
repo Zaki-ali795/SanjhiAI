@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 - **Total Files**: 230
-- **Status**: 119 / 230 Copied
-- **Progress**: `[██████████░░░░░░░░░░] 52%` 
+- **Status**: 146 / 230 Copied
+- **Progress**: `[█████████████░░░░░░░] 63%` 
 
 ---
 
@@ -606,48 +606,48 @@ SanjhiAI/
 
 ### 📂 `src/assets/`
 
-- [ ] `src/assets/chatbot-icon.svg` 
-- [ ] `src/assets/react.svg` 
-- [ ] `src/assets/sanjhi-ai-logo.png` 
-- [ ] `src/assets/sanjhi-logo-white.png` 
-- [ ] `src/assets/sanjhi-logo.png` 
-- [ ] `src/assets/screen.png` 
-- [ ] `src/assets/whatsapp-icon.svg` 
+- [x] `src/assets/chatbot-icon.svg` 
+- [x] `src/assets/react.svg` 
+- [x] `src/assets/sanjhi-ai-logo.png` 
+- [x] `src/assets/sanjhi-logo-white.png` 
+- [x] `src/assets/sanjhi-logo.png` 
+- [x] `src/assets/screen.png` 
+- [x] `src/assets/whatsapp-icon.svg` 
 
 ### 📂 `src/components/`
 
-- [ ] `src/components/AddToCalendarModal.jsx` 
-- [ ] `src/components/AdminMobileNav.jsx` 
-- [ ] `src/components/AuthAmbientBackground.jsx` 
-- [ ] `src/components/BottomNav.jsx` 
-- [ ] `src/components/Button.jsx` 
-- [ ] `src/components/CnicVerificationModal.jsx` 
-- [ ] `src/components/CommitteeCard.jsx` 
-- [ ] `src/components/FloatingField.jsx` 
-- [ ] `src/components/Icon.jsx` 
-- [ ] `src/components/MobileSideDrawer.jsx` 
-- [ ] `src/components/PageTransition.jsx` 
-- [ ] `src/components/ProgressBar.jsx` 
-- [ ] `src/components/ReportUserModal.jsx` 
-- [ ] `src/components/ScreenNav.jsx` 
-- [ ] `src/components/TopAppBar.jsx` 
+- [x] `src/components/AddToCalendarModal.jsx` 
+- [x] `src/components/AdminMobileNav.jsx` 
+- [x] `src/components/AuthAmbientBackground.jsx` 
+- [x] `src/components/BottomNav.jsx` 
+- [x] `src/components/Button.jsx` 
+- [x] `src/components/CnicVerificationModal.jsx` 
+- [x] `src/components/CommitteeCard.jsx` 
+- [x] `src/components/FloatingField.jsx` 
+- [x] `src/components/Icon.jsx` 
+- [x] `src/components/MobileSideDrawer.jsx` 
+- [x] `src/components/PageTransition.jsx` 
+- [x] `src/components/ProgressBar.jsx` 
+- [x] `src/components/ReportUserModal.jsx` 
+- [x] `src/components/ScreenNav.jsx` 
+- [x] `src/components/TopAppBar.jsx` 
 
 ### 📂 `src/context/`
 
-- [ ] `src/context/NavDrawerContext.jsx` 
+- [x] `src/context/NavDrawerContext.jsx` 
 
 ### 📂 `src/data/`
 
-- [ ] `src/data/countries.js` 
+- [x] `src/data/countries.js` 
 
 ### 📂 `src/hooks/`
 
-- [ ] `src/hooks/useCountUp.js` 
+- [x] `src/hooks/useCountUp.js` 
 
 ### 📂 `src/layouts/`
 
-- [ ] `src/layouts/AppLayout.jsx` 
-- [ ] `src/layouts/AuthLayout.jsx` 
+- [x] `src/layouts/AppLayout.jsx` 
+- [x] `src/layouts/AuthLayout.jsx` 
 
 ### 📂 `src/pages/admin/`
 
