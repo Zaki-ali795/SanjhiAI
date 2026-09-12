@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 - **Total Files**: 230
-- **Status**: 58 / 230 Copied
-- **Progress**: `[█████░░░░░░░░░░░░░░░] 25%` 
+- **Status**: 70 / 230 Copied
+- **Progress**: `[██████░░░░░░░░░░░░░░] 30%` 
 
 ---
 
@@ -580,18 +580,18 @@ SanjhiAI/
 
 ### 📂 `public/`
 
-- [ ] `public/_redirects` 
-- [ ] `public/avatar.svg` 
-- [ ] `public/chatbot-icon.svg` 
-- [ ] `public/logo.png` 
-- [ ] `public/logo.svg` 
-- [ ] `public/manifest.json` 
-- [ ] `public/sanjhi-ai-logo.png` 
-- [ ] `public/sanjhi-logo-white.png` 
-- [ ] `public/sanjhi-logo.png` 
-- [ ] `public/sw.js` 
-- [ ] `public/vite.svg` 
-- [ ] `public/whatsapp-icon.svg` 
+- [x] `public/_redirects` 
+- [x] `public/avatar.svg` 
+- [x] `public/chatbot-icon.svg` 
+- [x] `public/logo.png` 
+- [x] `public/logo.svg` 
+- [x] `public/manifest.json` 
+- [x] `public/sanjhi-ai-logo.png` 
+- [x] `public/sanjhi-logo-white.png` 
+- [x] `public/sanjhi-logo.png` 
+- [x] `public/sw.js` 
+- [x] `public/vite.svg` 
+- [x] `public/whatsapp-icon.svg` 
 
 ### 📂 `scripts/`
 
