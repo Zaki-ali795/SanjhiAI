@@ -1,0 +1,16 @@
+{
+  "short_name": "Sanjhi",
+  "name": "Sanjhi — Community Savings",
+  "icons": [
+    {
+      "src": "/sanjhi-logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#006972",
+  "theme_color": "#006972",
+  "display": "standalone"
+}
