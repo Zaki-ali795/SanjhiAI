@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 - **Total Files**: 230
-- **Status**: 106 / 230 Copied
-- **Progress**: `[█████████░░░░░░░░░░░] 46%` 
+- **Status**: 119 / 230 Copied
+- **Progress**: `[██████████░░░░░░░░░░] 52%` 
 
 ---
 
@@ -699,31 +699,31 @@ SanjhiAI/
 
 ### 📂 `src/pages/members/`
 
-- [ ] `src/pages/members/InviteMembers.jsx` 
-- [ ] `src/pages/members/JoinRequests.jsx` 
+- [x] `src/pages/members/InviteMembers.jsx` 
+- [x] `src/pages/members/JoinRequests.jsx` 
 
 ### 📂 `src/pages/misc/`
 
-- [ ] `src/pages/misc/EmptyStates.jsx` 
-- [ ] `src/pages/misc/Loading.jsx` 
-- [ ] `src/pages/misc/Offline.jsx` 
+- [x] `src/pages/misc/EmptyStates.jsx` 
+- [x] `src/pages/misc/Loading.jsx` 
+- [x] `src/pages/misc/Offline.jsx` 
 
 ### 📂 `src/pages/payments/`
 
-- [ ] `src/pages/payments/MyPayments.jsx` 
-- [ ] `src/pages/payments/PayNow.jsx` 
-- [ ] `src/pages/payments/ReleasePayout.jsx` 
+- [x] `src/pages/payments/MyPayments.jsx` 
+- [x] `src/pages/payments/PayNow.jsx` 
+- [x] `src/pages/payments/ReleasePayout.jsx` 
 
 ### 📂 `src/pages/profile/`
 
-- [ ] `src/pages/profile/Profile.jsx` 
+- [x] `src/pages/profile/Profile.jsx` 
 
 ### 📂 `src/pages/support/`
 
-- [ ] `src/pages/support/ComplaintDetail.jsx` 
-- [ ] `src/pages/support/FileComplaint.jsx` 
-- [ ] `src/pages/support/MyComplaints.jsx` 
-- [ ] `src/pages/support/SupportHome.jsx` 
+- [x] `src/pages/support/ComplaintDetail.jsx` 
+- [x] `src/pages/support/FileComplaint.jsx` 
+- [x] `src/pages/support/MyComplaints.jsx` 
+- [x] `src/pages/support/SupportHome.jsx` 
 
 ### 📂 `src/services/`
 
