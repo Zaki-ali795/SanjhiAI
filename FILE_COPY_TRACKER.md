@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 - **Total Files**: 230
-- **Status**: 1 / 230 Copied
-- **Progress**: `[░░░░░░░░░░░░░░░░░░░░] 0%` 
+- **Status**: 55 / 230 Copied
+- **Progress**: `[█████░░░░░░░░░░░░░░░] 24%` 
 
 ---
 
@@ -350,141 +350,141 @@ SanjhiAI/
 
 ### 📂 `android/`
 
-- [ ] `android/.gitignore` 
-- [ ] `android/build.gradle` 
-- [ ] `android/capacitor.settings.gradle` 
-- [ ] `android/gradle.properties` 
-- [ ] `android/gradlew` 
-- [ ] `android/gradlew.bat` 
-- [ ] `android/mailmap.txt` 
-- [ ] `android/settings.gradle` 
-- [ ] `android/variables.gradle` 
+- [x] `android/.gitignore` 
+- [x] `android/build.gradle` 
+- [x] `android/capacitor.settings.gradle` 
+- [x] `android/gradle.properties` 
+- [x] `android/gradlew` 
+- [x] `android/gradlew.bat` 
+- [x] `android/mailmap.txt` 
+- [x] `android/settings.gradle` 
+- [x] `android/variables.gradle` 
 
 ### 📂 `android/app/`
 
-- [ ] `android/app/.gitignore` 
-- [ ] `android/app/build.gradle` 
-- [ ] `android/app/capacitor.build.gradle` 
-- [ ] `android/app/proguard-rules.pro` 
+- [x] `android/app/.gitignore` 
+- [x] `android/app/build.gradle` 
+- [x] `android/app/capacitor.build.gradle` 
+- [x] `android/app/proguard-rules.pro` 
 
 ### 📂 `android/app/src/androidTest/java/com/getcapacitor/myapp/`
 
-- [ ] `android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java` 
+- [x] `android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java` 
 
 ### 📂 `android/app/src/main/`
 
-- [ ] `android/app/src/main/AndroidManifest.xml` 
+- [x] `android/app/src/main/AndroidManifest.xml` 
 
 ### 📂 `android/app/src/main/java/com/sanjhi/app/`
 
-- [ ] `android/app/src/main/java/com/sanjhi/app/MainActivity.java` 
+- [x] `android/app/src/main/java/com/sanjhi/app/MainActivity.java` 
 
 ### 📂 `android/app/src/main/res/drawable/`
 
-- [ ] `android/app/src/main/res/drawable/ic_launcher_background.xml` 
-- [ ] `android/app/src/main/res/drawable/splash.png` 
+- [x] `android/app/src/main/res/drawable/ic_launcher_background.xml` 
+- [x] `android/app/src/main/res/drawable/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-land-hdpi/`
 
-- [ ] `android/app/src/main/res/drawable-land-hdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-land-hdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-land-mdpi/`
 
-- [ ] `android/app/src/main/res/drawable-land-mdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-land-mdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-land-xhdpi/`
 
-- [ ] `android/app/src/main/res/drawable-land-xhdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-land-xhdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-land-xxhdpi/`
 
-- [ ] `android/app/src/main/res/drawable-land-xxhdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-land-xxhdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-land-xxxhdpi/`
 
-- [ ] `android/app/src/main/res/drawable-land-xxxhdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-land-xxxhdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-port-hdpi/`
 
-- [ ] `android/app/src/main/res/drawable-port-hdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-port-hdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-port-mdpi/`
 
-- [ ] `android/app/src/main/res/drawable-port-mdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-port-mdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-port-xhdpi/`
 
-- [ ] `android/app/src/main/res/drawable-port-xhdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-port-xhdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-port-xxhdpi/`
 
-- [ ] `android/app/src/main/res/drawable-port-xxhdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-port-xxhdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-port-xxxhdpi/`
 
-- [ ] `android/app/src/main/res/drawable-port-xxxhdpi/splash.png` 
+- [x] `android/app/src/main/res/drawable-port-xxxhdpi/splash.png` 
 
 ### 📂 `android/app/src/main/res/drawable-v24/`
 
-- [ ] `android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml` 
+- [x] `android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml` 
 
 ### 📂 `android/app/src/main/res/layout/`
 
-- [ ] `android/app/src/main/res/layout/activity_main.xml` 
+- [x] `android/app/src/main/res/layout/activity_main.xml` 
 
 ### 📂 `android/app/src/main/res/mipmap-anydpi-v26/`
 
-- [ ] `android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml` 
-- [ ] `android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml` 
+- [x] `android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml` 
+- [x] `android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml` 
 
 ### 📂 `android/app/src/main/res/mipmap-hdpi/`
 
-- [ ] `android/app/src/main/res/mipmap-hdpi/ic_launcher.png` 
-- [ ] `android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png` 
-- [ ] `android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png` 
+- [x] `android/app/src/main/res/mipmap-hdpi/ic_launcher.png` 
+- [x] `android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png` 
+- [x] `android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png` 
 
 ### 📂 `android/app/src/main/res/mipmap-mdpi/`
 
-- [ ] `android/app/src/main/res/mipmap-mdpi/ic_launcher.png` 
-- [ ] `android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png` 
-- [ ] `android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png` 
+- [x] `android/app/src/main/res/mipmap-mdpi/ic_launcher.png` 
+- [x] `android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png` 
+- [x] `android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png` 
 
 ### 📂 `android/app/src/main/res/mipmap-xhdpi/`
 
-- [ ] `android/app/src/main/res/mipmap-xhdpi/ic_launcher.png` 
-- [ ] `android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png` 
-- [ ] `android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png` 
+- [x] `android/app/src/main/res/mipmap-xhdpi/ic_launcher.png` 
+- [x] `android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png` 
+- [x] `android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png` 
 
 ### 📂 `android/app/src/main/res/mipmap-xxhdpi/`
 
-- [ ] `android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png` 
-- [ ] `android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png` 
-- [ ] `android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png` 
+- [x] `android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png` 
+- [x] `android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png` 
+- [x] `android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png` 
 
 ### 📂 `android/app/src/main/res/mipmap-xxxhdpi/`
 
-- [ ] `android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png` 
-- [ ] `android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png` 
-- [ ] `android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png` 
+- [x] `android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png` 
+- [x] `android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png` 
+- [x] `android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png` 
 
 ### 📂 `android/app/src/main/res/values/`
 
-- [ ] `android/app/src/main/res/values/ic_launcher_background.xml` 
-- [ ] `android/app/src/main/res/values/strings.xml` 
-- [ ] `android/app/src/main/res/values/styles.xml` 
+- [x] `android/app/src/main/res/values/ic_launcher_background.xml` 
+- [x] `android/app/src/main/res/values/strings.xml` 
+- [x] `android/app/src/main/res/values/styles.xml` 
 
 ### 📂 `android/app/src/main/res/xml/`
 
-- [ ] `android/app/src/main/res/xml/file_paths.xml` 
+- [x] `android/app/src/main/res/xml/file_paths.xml` 
 
 ### 📂 `android/app/src/test/java/com/getcapacitor/myapp/`
 
-- [ ] `android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java` 
+- [x] `android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java` 
 
 ### 📂 `android/gradle/wrapper/`
 
-- [ ] `android/gradle/wrapper/gradle-wrapper.jar` 
-- [ ] `android/gradle/wrapper/gradle-wrapper.properties` 
+- [x] `android/gradle/wrapper/gradle-wrapper.jar` 
+- [x] `android/gradle/wrapper/gradle-wrapper.properties` 
 
 ### 📂 `backend/`
 
