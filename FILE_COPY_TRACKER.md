@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 - **Total Files**: 230
-- **Status**: 103 / 230 Copied
-- **Progress**: `[█████████░░░░░░░░░░░] 45%` 
+- **Status**: 106 / 230 Copied
+- **Progress**: `[█████████░░░░░░░░░░░] 46%` 
 
 ---
 
@@ -693,9 +693,9 @@ SanjhiAI/
 
 ### 📂 `src/pages/dashboard/`
 
-- [ ] `src/pages/dashboard/Assistant.jsx` 
-- [ ] `src/pages/dashboard/Dashboard.jsx` 
-- [ ] `src/pages/dashboard/Notifications.jsx` 
+- [x] `src/pages/dashboard/Assistant.jsx` 
+- [x] `src/pages/dashboard/Dashboard.jsx` 
+- [x] `src/pages/dashboard/Notifications.jsx` 
 
 ### 📂 `src/pages/members/`
 
