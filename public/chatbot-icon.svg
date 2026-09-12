@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#006972" />
+      <stop offset="100%" stop-color="#003e44" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE082" />
+      <stop offset="100%" stop-color="#D4AF37" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background container -->
+  <rect width="48" height="48" rx="14" fill="url(#bgGrad)" />
+  <rect x="1" y="1" width="46" height="46" rx="13" stroke="url(#goldGrad)" stroke-width="1.2" stroke-opacity="0.4" />
+
+  <!-- Robot Head Base -->
+  <rect x="12" y="14" width="24" height="20" rx="9" fill="#FFFFFF" />
+  
+  <!-- Visor screen -->
+  <rect x="15" y="17" width="18" height="13" rx="6" fill="#0D1B2A" />
+  
+  <!-- Glowing friendly eyes / smile -->
+  <circle cx="20" cy="22.5" r="2.2" fill="#22D3EE" filter="url(#glow)" />
+  <circle cx="28" cy="22.5" r="2.2" fill="#22D3EE" filter="url(#glow)" />
+  <path d="M21.5 26 C23 27.5 25 27.5 26.5 26" stroke="#22D3EE" stroke-width="1.6" stroke-linecap="round" fill="none" />
+
+  <!-- Headset / Ears -->
+  <rect x="9" y="20" width="3.5" height="8" rx="1.75" fill="url(#goldGrad)" />
+  <rect x="35.5" y="20" width="3.5" height="8" rx="1.75" fill="url(#goldGrad)" />
+
+  <!-- Antenna -->
+  <line x1="24" y1="14" x2="24" y2="8.5" stroke="url(#goldGrad)" stroke-width="2" stroke-linecap="round" />
+  <circle cx="24" cy="7.5" r="2.5" fill="#FFE082" filter="url(#glow)" />
+
+  <!-- Sparkles -->
+  <path d="M37 11 L38 8 L39 11 L42 12 L39 13 L38 16 L37 13 L34 12 Z" fill="#FFE082" opacity="0.8" />
+  <circle cx="10" cy="11" r="1" fill="#FFE082" opacity="0.7" />
+</svg>
