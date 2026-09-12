@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 - **Total Files**: 230
-- **Status**: 70 / 230 Copied
-- **Progress**: `[██████░░░░░░░░░░░░░░] 30%` 
+- **Status**: 89 / 230 Copied
+- **Progress**: `[████████░░░░░░░░░░░░] 39%` 
 
 ---
 
@@ -651,28 +651,28 @@ SanjhiAI/
 
 ### 📂 `src/pages/admin/`
 
-- [ ] `src/pages/admin/ActivityLog.jsx` 
-- [ ] `src/pages/admin/AdminAnalytics.jsx` 
-- [ ] `src/pages/admin/AdminAnnouncements.jsx` 
-- [ ] `src/pages/admin/AdminCnicVerification.jsx` 
-- [ ] `src/pages/admin/AdminCommitteeDetail.jsx` 
-- [ ] `src/pages/admin/AdminCommittees.jsx` 
-- [ ] `src/pages/admin/AdminDisputes.jsx` 
-- [ ] `src/pages/admin/AdminOverview.jsx` 
-- [ ] `src/pages/admin/AdminSettings.jsx` 
-- [ ] `src/pages/admin/AdminUsers.jsx` 
+- [x] `src/pages/admin/ActivityLog.jsx` 
+- [x] `src/pages/admin/AdminAnalytics.jsx` 
+- [x] `src/pages/admin/AdminAnnouncements.jsx` 
+- [x] `src/pages/admin/AdminCnicVerification.jsx` 
+- [x] `src/pages/admin/AdminCommitteeDetail.jsx` 
+- [x] `src/pages/admin/AdminCommittees.jsx` 
+- [x] `src/pages/admin/AdminDisputes.jsx` 
+- [x] `src/pages/admin/AdminOverview.jsx` 
+- [x] `src/pages/admin/AdminSettings.jsx` 
+- [x] `src/pages/admin/AdminUsers.jsx` 
 
 ### 📂 `src/pages/auth/`
 
-- [ ] `src/pages/auth/ForgotPassword.jsx` 
-- [ ] `src/pages/auth/LoginForm.jsx` 
-- [ ] `src/pages/auth/OTPVerification.jsx` 
-- [ ] `src/pages/auth/PhoneInput.jsx` 
-- [ ] `src/pages/auth/ProfileSetup.jsx` 
-- [ ] `src/pages/auth/ResetPassword.jsx` 
-- [ ] `src/pages/auth/SignUp.jsx` 
-- [ ] `src/pages/auth/SignUpForm.jsx` 
-- [ ] `src/pages/auth/Welcome.jsx` 
+- [x] `src/pages/auth/ForgotPassword.jsx` 
+- [x] `src/pages/auth/LoginForm.jsx` 
+- [x] `src/pages/auth/OTPVerification.jsx` 
+- [x] `src/pages/auth/PhoneInput.jsx` 
+- [x] `src/pages/auth/ProfileSetup.jsx` 
+- [x] `src/pages/auth/ResetPassword.jsx` 
+- [x] `src/pages/auth/SignUp.jsx` 
+- [x] `src/pages/auth/SignUpForm.jsx` 
+- [x] `src/pages/auth/Welcome.jsx` 
 
 ### 📂 `src/pages/committee/`
 
