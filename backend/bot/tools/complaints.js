@@ -1,0 +1,26 @@
+const BASE = `http://127.0.0.1:${process.env.PORT || 3000}`;
+
+async function apiCall(method, path, jwt, body = null) {
+  const opts = {
+    method,
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${jwt}`,
+    },
+  };
+  if (body) opts.body = JSON.stringify(body);
+
+  const res = await fetch(`${BASE}${path}`, opts);
+  if (res.status === 401) return { success: false, error: 'SESSION_EXPIRED', status: 401 };
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) return { success: false, error: data.error || `HTTP ${res.status}`, status: res.status };
+  return { success: true, data, status: res.status };
+}
+
+export async function fileComplaint(jwt, params) {
+  return apiCall('POST', '/api/complaints', jwt, params);
+}
+
+export async function getMyComplaints(jwt) {
+  return apiCall('GET', '/api/complaints/my', jwt);
+}
