@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 - **Total Files**: 230
-- **Status**: 146 / 230 Copied
-- **Progress**: `[█████████████░░░░░░░] 63%` 
+- **Status**: 183 / 230 Copied
+- **Progress**: `[████████████████░░░░] 80%` 
 
 ---
 
@@ -493,58 +493,58 @@ SanjhiAI/
 
 ### 📂 `backend/assistant/`
 
-- [ ] `backend/assistant/retriever.js` 
-- [ ] `backend/assistant/schema.js` 
-- [ ] `backend/assistant/seedDocs.js` 
+- [x] `backend/assistant/retriever.js` 
+- [x] `backend/assistant/schema.js` 
+- [x] `backend/assistant/seedDocs.js` 
 
 ### 📂 `backend/bot/`
 
-- [ ] `backend/bot/agent.js` 
-- [ ] `backend/bot/authFlow.js` 
-- [ ] `backend/bot/formatter.js` 
-- [ ] `backend/bot/index.js` 
-- [ ] `backend/bot/messageRouter.js` 
-- [ ] `backend/bot/sessionManager.js` 
-- [ ] `backend/bot/stt.js` 
+- [x] `backend/bot/agent.js` 
+- [x] `backend/bot/authFlow.js` 
+- [x] `backend/bot/formatter.js` 
+- [x] `backend/bot/index.js` 
+- [x] `backend/bot/messageRouter.js` 
+- [x] `backend/bot/sessionManager.js` 
+- [x] `backend/bot/stt.js` 
 
 ### 📂 `backend/bot/tools/`
 
-- [ ] `backend/bot/tools/calendar.js` 
-- [ ] `backend/bot/tools/committees.js` 
-- [ ] `backend/bot/tools/complaints.js` 
-- [ ] `backend/bot/tools/dashboard.js` 
-- [ ] `backend/bot/tools/index.js` 
-- [ ] `backend/bot/tools/notifications.js` 
-- [ ] `backend/bot/tools/payments.js` 
+- [x] `backend/bot/tools/calendar.js` 
+- [x] `backend/bot/tools/committees.js` 
+- [x] `backend/bot/tools/complaints.js` 
+- [x] `backend/bot/tools/dashboard.js` 
+- [x] `backend/bot/tools/index.js` 
+- [x] `backend/bot/tools/notifications.js` 
+- [x] `backend/bot/tools/payments.js` 
 
 ### 📂 `backend/config/`
 
-- [ ] `backend/config/db.js` 
-- [ ] `backend/config/redis.js` 
+- [x] `backend/config/db.js` 
+- [x] `backend/config/redis.js` 
 
 ### 📂 `backend/controller/`
 
-- [ ] `backend/controller/activityController.js` 
-- [ ] `backend/controller/adminController.js` 
-- [ ] `backend/controller/assistantController.js` 
-- [ ] `backend/controller/authController.js` 
-- [ ] `backend/controller/committeeController.js` 
-- [ ] `backend/controller/complaintController.js` 
-- [ ] `backend/controller/dashboardController.js` 
-- [ ] `backend/controller/notificationController.js` 
-- [ ] `backend/controller/paymentController.js` 
+- [x] `backend/controller/activityController.js` 
+- [x] `backend/controller/adminController.js` 
+- [x] `backend/controller/assistantController.js` 
+- [x] `backend/controller/authController.js` 
+- [x] `backend/controller/committeeController.js` 
+- [x] `backend/controller/complaintController.js` 
+- [x] `backend/controller/dashboardController.js` 
+- [x] `backend/controller/notificationController.js` 
+- [x] `backend/controller/paymentController.js` 
 
 ### 📂 `backend/routes/`
 
-- [ ] `backend/routes/activityRoutes.js` 
-- [ ] `backend/routes/adminRoutes.js` 
-- [ ] `backend/routes/assistantRoutes.js` 
-- [ ] `backend/routes/authRoutes.js` 
-- [ ] `backend/routes/committeeRoutes.js` 
-- [ ] `backend/routes/complaintRoutes.js` 
-- [ ] `backend/routes/dashboardRoutes.js` 
-- [ ] `backend/routes/notificationRoutes.js` 
-- [ ] `backend/routes/paymentRoutes.js` 
+- [x] `backend/routes/activityRoutes.js` 
+- [x] `backend/routes/adminRoutes.js` 
+- [x] `backend/routes/assistantRoutes.js` 
+- [x] `backend/routes/authRoutes.js` 
+- [x] `backend/routes/committeeRoutes.js` 
+- [x] `backend/routes/complaintRoutes.js` 
+- [x] `backend/routes/dashboardRoutes.js` 
+- [x] `backend/routes/notificationRoutes.js` 
+- [x] `backend/routes/paymentRoutes.js` 
 
 ### 📂 `backend/services/`
 
