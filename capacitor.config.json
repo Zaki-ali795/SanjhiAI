@@ -1,0 +1,24 @@
+{
+  "appId": "com.sanjhi.app",
+  "appName": "Sanjhi",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false,
+    "loggingBehavior": "none"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "launchShowDuration": 800,
+      "backgroundColor": "#006972",
+      "androidSplashResourceName": "splash",
+      "showSpinner": false
+    }
+  }
+}
