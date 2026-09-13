@@ -548,27 +548,27 @@ SanjhiAI/
 
 ### 📂 `backend/services/`
 
-- [ ] `backend/services/reminderScheduler.js` 
+- [x] `backend/services/reminderScheduler.js` 
 
 ### 📂 `backend/utilities/`
 
-- [ ] `backend/utilities/calendarGenerator.js` 
-- [ ] `backend/utilities/groqLlm.js` 
-- [ ] `backend/utilities/jwt.js` 
-- [ ] `backend/utilities/openrouterLlm.js` 
-- [ ] `backend/utilities/otpService.js` 
-- [ ] `backend/utilities/postgresAuthState.js` 
-- [ ] `backend/utilities/trustScore.js` 
-- [ ] `backend/utilities/whatsappGateway.js` 
+- [x] `backend/utilities/calendarGenerator.js` 
+- [x] `backend/utilities/groqLlm.js` 
+- [x] `backend/utilities/jwt.js` 
+- [x] `backend/utilities/openrouterLlm.js` 
+- [x] `backend/utilities/otpService.js` 
+- [x] `backend/utilities/postgresAuthState.js` 
+- [x] `backend/utilities/trustScore.js` 
+- [x] `backend/utilities/whatsappGateway.js` 
 
 ### 📂 `backend/utilities/complaintAgent/`
 
-- [ ] `backend/utilities/complaintAgent/index.js` 
-- [ ] `backend/utilities/complaintAgent/investigator.js` 
-- [ ] `backend/utilities/complaintAgent/judge.js` 
-- [ ] `backend/utilities/complaintAgent/queue.js` 
-- [ ] `backend/utilities/complaintAgent/sweeper.js` 
-- [ ] `backend/utilities/complaintAgent/tools.js` 
+- [x] `backend/utilities/complaintAgent/index.js` 
+- [x] `backend/utilities/complaintAgent/investigator.js` 
+- [x] `backend/utilities/complaintAgent/judge.js` 
+- [x] `backend/utilities/complaintAgent/queue.js` 
+- [x] `backend/utilities/complaintAgent/sweeper.js` 
+- [x] `backend/utilities/complaintAgent/tools.js` 
 
 ### 📂 `database/`
 
