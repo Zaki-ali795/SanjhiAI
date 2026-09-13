@@ -488,8 +488,8 @@ SanjhiAI/
 
 ### 📂 `backend/`
 
-- [ ] `backend/.envexample` 
-- [ ] `backend/server.js` 
+- [X] `backend/.envexample` 
+- [X] `backend/server.js` 
 
 ### 📂 `backend/assistant/`
 
