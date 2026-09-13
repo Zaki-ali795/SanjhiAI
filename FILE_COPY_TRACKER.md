@@ -334,19 +334,19 @@ SanjhiAI/
 
 ### 📂 Root Files (`/`)
 
-- [ ] `.env.example` 
-- [ ] `.gitignore` 
+- [x] `.env.example` 
+- [x] `.gitignore` 
 - [x] `README.md` 
-- [ ] `SANJHI_SRS_ANALYSIS_AND_ARCHITECTURE.md` 
-- [ ] `Sanjhi_SRS_v2_0.pdf` 
-- [ ] `capacitor.config.json` 
-- [ ] `eslint.config.js` 
-- [ ] `index.html` 
-- [ ] `instructions.md` 
-- [ ] `nodemon.json` 
-- [ ] `package-lock.json` 
-- [ ] `package.json` 
-- [ ] `vite.config.js` 
+- [x] `SANJHI_SRS_ANALYSIS_AND_ARCHITECTURE.md` 
+- [x] `Sanjhi_SRS_v2_0.pdf` 
+- [x] `capacitor.config.json` 
+- [x] `eslint.config.js` 
+- [x] `index.html` 
+- [x] `instructions.md` 
+- [x] `nodemon.json` 
+- [x] `package-lock.json` 
+- [x] `package.json` 
+- [x] `vite.config.js` 
 
 ### 📂 `android/`
 
