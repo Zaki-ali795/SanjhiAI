@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 - **Total Files**: 230
-- **Status**: 183 / 230 Copied
-- **Progress**: `[████████████████░░░░] 80%` 
+- **Status**: 230 / 230 Copied
+- **Progress**: `[███████████████████] 100%` 
 
 ---
 
@@ -599,10 +599,10 @@ SanjhiAI/
 
 ### 📂 `src/`
 
-- [ ] `src/App.jsx` 
-- [ ] `src/api.js` 
-- [ ] `src/index.css` 
-- [ ] `src/main.jsx` 
+- [x] `src/App.jsx` 
+- [x] `src/api.js` 
+- [x] `src/index.css` 
+- [x] `src/main.jsx` 
 
 ### 📂 `src/assets/`
 
@@ -727,24 +727,24 @@ SanjhiAI/
 
 ### 📂 `src/services/`
 
-- [ ] `src/services/adminService.js` 
-- [ ] `src/services/assistantService.js` 
-- [ ] `src/services/authService.js` 
-- [ ] `src/services/committeeService.js` 
-- [ ] `src/services/dashboardService.js` 
-- [ ] `src/services/index.js` 
-- [ ] `src/services/memberService.js` 
-- [ ] `src/services/notificationService.js` 
-- [ ] `src/services/paymentService.js` 
-- [ ] `src/services/supportService.js` 
+- [x] `src/services/adminService.js` 
+- [x] `src/services/assistantService.js` 
+- [x] `src/services/authService.js` 
+- [x] `src/services/committeeService.js` 
+- [x] `src/services/dashboardService.js` 
+- [x] `src/services/index.js` 
+- [x] `src/services/memberService.js` 
+- [x] `src/services/notificationService.js` 
+- [x] `src/services/paymentService.js` 
+- [x] `src/services/supportService.js` 
 
 ### 📂 `src/utilities/`
 
-- [ ] `src/utilities/calendarHelper.js` 
+- [x] `src/utilities/calendarHelper.js` 
 
 ### 📂 `src/utils/`
 
-- [ ] `src/utils/backendUrl.js` 
-- [ ] `src/utils/constants.js` 
-- [ ] `src/utils/wallets.js` 
+- [x] `src/utils/backendUrl.js` 
+- [x] `src/utils/constants.js` 
+- [x] `src/utils/wallets.js` 
 
