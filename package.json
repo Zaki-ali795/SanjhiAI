@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "concurrently \"npm run client\" \"npm run server\"",
+    "dev": "node api.js && concurrently \"npm run client\" \"npm run server\"",
     "client": "vite",
     "server": "nodemon backend/server.js",
-    "start": "node backend/server.js",
+    "start": "node api.js && node backend/server.js",
     "build": "vite build",
     "build:apk": "npm run build && npm run cap:sync && cd android && .\\gradlew assembleDebug",
     "cap:sync": "npx cap sync android && node scripts/patch-gradle.mjs",
