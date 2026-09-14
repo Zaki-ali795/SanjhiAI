@@ -1,24 +1,4 @@
-# 📋 Repository Migration & File Copy Tracker
 
-> **Purpose**: Track file copying progress to the new repository so contributors don't duplicate work.
-> 
-> **Instructions for Contributors**:
-> 1. Check if the file is marked as `[x] Copied` before working on it.
-> 2. Once you copy a file to the new repo, change `[ ]` to `[x]` (and optionally add your name/date).
-> 3. Commit this tracker file so all contributors stay in sync.
-
----
-
-## 📊 Summary
-- **Total Files**: 230
-- **Status**: 230 / 230 Copied
-- **Progress**: `[███████████████████] 100%` 
-
----
-
-## 📁 Repository Directory Structure Overview
-
-```text
 SanjhiAI/
 ├── android/
 │   ├── app/
